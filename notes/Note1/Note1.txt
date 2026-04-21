@@ -1,0 +1,41 @@
+TELA DO JOGO
+fundo do jogo
+Background
+importar sprite
+colocar as sprites
+arrumar as leyers
+
+
+PLAYER
+importar sprite
+criar objeto
+colocar ele na room
+colocar ele em uma camada específica
+
+Tarefa: Fazer o nosso passáro cair V
+		Fazer ele subir ao apertar espaço V
+		Fazer  passaro ter animação V
+		
+Obstáculos
+arvore
+	importar a sprite 
+	Criar o objeto 
+	criar layer
+	Fazer ele ir para a esquerda
+	fazer o jogo avisar quando eu bati nele
+Aguia
+	importar a sprite 
+	Criar o objeto 
+	Fazer ele ir para a esquerda
+	fazer o jogo avisar quando eu bati nele
+	
+	
+fazendo o jogo parar quando eu morrer
+tarefa: Fazer o passaro parar de bater as asas
+		fazer o background parar
+		obstaculos vão parar
+MENU
+
+
+
+LOJA
