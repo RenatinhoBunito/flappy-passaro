@@ -4,7 +4,7 @@
 
 //Fazendo o passaro voar
 //se ele morreu o codigo n funciona
-if (global.Morre = 1) exit
+if (global.Morre == 1) exit
 
 	//fazendo ele não conseguir voar sem pausa
 	//Se a animação não tiver começado

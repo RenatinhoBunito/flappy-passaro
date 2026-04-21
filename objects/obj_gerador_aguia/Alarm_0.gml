@@ -22,5 +22,5 @@ if altura = 1
 
 
 //tempo para tocar o alarme de novo 
-alarm[0] = 180
+alarm[0] = 200
 
