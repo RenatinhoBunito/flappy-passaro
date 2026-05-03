@@ -43,11 +43,11 @@
   },
   "name":"flappy-passaro",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"obj_aguia","path":"objects/obj_aguia/obj_aguia.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
-    {"id":{"name":"obj_gerador_aguia","path":"objects/obj_gerador_aguia/obj_gerador_aguia.yy",},},
-    {"id":{"name":"obj_gerador_arvore","path":"objects/obj_gerador_arvore/obj_gerador_arvore.yy",},},
+    {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},

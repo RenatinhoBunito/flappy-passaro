@@ -9,7 +9,8 @@ randomise()
 #region global
 //var para quando eu morrer
 global.Morre = 0 
-
+//variavel para pontos
+global.pontos = 0 
 
 #endregion
 
@@ -20,6 +21,7 @@ function perdi() {
 	//avisando que bati
 	image_blend = c_red
 	global.Morre = 1
+
 
 	//alarme para o jogo reiniciar 
 	alarm[0] = 120 
