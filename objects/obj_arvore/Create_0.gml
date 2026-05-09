@@ -1,3 +1,4 @@
 //alarme para ser deletado
 alarm[0] = 420
-hspeed = -2
+vel_level = -2
+hspeed = vel_level

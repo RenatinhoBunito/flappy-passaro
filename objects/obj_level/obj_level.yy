@@ -13,8 +13,8 @@
   "name":"obj_level",
   "overriddenProperties":[],
   "parent":{
-    "name":"Obstáculos",
-    "path":"folders/Objects/Obstáculos.yy",
+    "name":"level",
+    "path":"folders/Objects/level.yy",
   },
   "parentObjectId":null,
   "persistent":false,

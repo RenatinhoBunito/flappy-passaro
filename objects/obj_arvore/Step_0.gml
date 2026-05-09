@@ -1,1 +1,4 @@
-//Fazer a arvore ir para a esquerda
+
+if global.level + 1 {
+	vel_level *= 1.25
+	}

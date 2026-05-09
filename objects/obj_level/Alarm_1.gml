@@ -1,6 +1,5 @@
 if (global.Morre == 1) exit
 var altura = irandom_range(256,352)
-//esse código faz a altura da arvore variar 
 instance_create_layer(704, altura, "Obstaculos2", obj_arvore)
 
 
