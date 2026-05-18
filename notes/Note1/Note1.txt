@@ -34,6 +34,12 @@ fazendo o jogo parar quando eu morrer
 tarefa: Fazer o passaro parar de bater as asas
 		fazer o background parar
 		obstaculos vão parar
+
+coletáveis
+			Criar sprite
+			Criar variavél
+			Criar gerador
+			Fazer ele se movimentar
 MENU
 
 

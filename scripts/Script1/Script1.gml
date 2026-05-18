@@ -15,6 +15,8 @@ global.pontos = 0
 global.level = 1
 //Criando um array para subir de nivel
 global.nivel = [150, 300, 550, 900, 1350, 1900, 2550, 3300, 4000]
+//variavel para peixes 
+global.pexe = 0 
 #endregion
 
 #region functions
@@ -41,10 +43,7 @@ function perdi() {
 	layer_hspeed("agua", 0)
 }
 
-function level_vel() {
+
 	
-	if global.level + 1 {
-	vel_level *= 1.25
-	}
-}
+
 #endregion
