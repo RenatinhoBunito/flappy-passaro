@@ -9,6 +9,13 @@ if (global.pontos >= limite_nivel and global.level < 9)   {
 	global.level ++
 }
 	
+if global.Morre == 1 exit {
+	var back_vel = - global.level
+	
+	layer_hspeed("arvores", back_vel)
+	layer_hspeed("reflexoagua", back_vel)
+	layer_hspeed("reflexoceu", back_vel)
+}
 
 
 
