@@ -14,7 +14,7 @@ if global.Morre == 1 exit {
 	
 	layer_hspeed("arvores", back_vel)
 	layer_hspeed("reflexoagua", back_vel)
-	layer_hspeed("reflexoceu", back_vel)
+	layer_hspeed("reflexoceu", back_vel * 0.75)
 }
 
 

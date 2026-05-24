@@ -52,6 +52,7 @@
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
     {"id":{"name":"obj_pexe","path":"objects/obj_pexe/obj_pexe.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"bg1_fundo","path":"sprites/bg1_fundo/bg1_fundo.yy",},},
@@ -76,6 +77,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
