@@ -1,4 +1,4 @@
 if global.Morre == false {
-	hspeed = - 1 - global.level 
+	hspeed = - 2 - global.level * 0.5
 	image_speed = 0
 }
