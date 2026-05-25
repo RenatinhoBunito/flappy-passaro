@@ -12,8 +12,8 @@ draw_set_halign(1)
 draw_set_valign(1)
 
 
-draw_text(x, y, texto_botao)
 
+draw_text_transformed(x, y, texto_botao, escala_x_txt, escala_y_txt, 0)
 
 draw_set_halign(-1)
 draw_set_valign(-1)
