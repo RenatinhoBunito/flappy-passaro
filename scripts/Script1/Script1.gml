@@ -17,6 +17,10 @@ global.level = 1
 global.nivel = [150, 300, 550, 900, 1350, 1900, 2550, 3300, 4000]
 //variavel para peixes 
 global.pexe = 0 
+//variavel para destino das tansições
+global.destino = rm_partida
+//variavel de controle para saber se a transição esta acontecendo
+global.transisao = false
 #endregion
 
 #region functions
@@ -29,7 +33,7 @@ function perdi() {
 
 
 	//alarme para o jogo reiniciar 
-	alarm[0] = 120 
+	alarm[0] = 85
 
 	//fazendo o passaro ter uma animação de morte
 	vspeed = -4
@@ -41,8 +45,22 @@ function perdi() {
 	layer_hspeed("reflexoagua", 0)
 	layer_hspeed("reflexoceu", 0)
 	layer_hspeed("agua", 0)
+	
+	global.destino = rm_menu
+	
+	layer_sequence_create("transicao", 0, 0, sq_transicao1)
 }
 
+function muda_sala() {
+	
+	global.transisao = true
+	room_goto(global.destino)
+	
+}
+	
+function encerra_transicao() {
+	global.transisao = false
+}
 
 	
 

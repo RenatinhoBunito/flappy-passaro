@@ -36,6 +36,9 @@
     {"$GMObjectProperty":"v2","%Name":"fonte","filters":[
         "GMFont",
       ],"listItems":[],"multiselect":false,"name":"fonte","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"fnt_botoes","path":"fonts/fnt_botoes/fnt_botoes.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"fnt_botoes","varType":5,},
+    {"$GMObjectProperty":"v2","%Name":"destino","filters":[
+        "GMRoom",
+      ],"listItems":[],"multiselect":false,"name":"destino","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_menu","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -16,3 +16,5 @@ image_yscale = tamanho
 //a gravidade funciona
 gravity = cair
 
+global.morre = 0
+
