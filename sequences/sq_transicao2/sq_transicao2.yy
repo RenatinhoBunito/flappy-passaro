@@ -25,7 +25,7 @@
           "0":{"$MomentsEventKeyframe":"","Events":[
               "encerra_transicao",
             ],"resourceType":"MomentsEventKeyframe","resourceVersion":"2.0",},
-        },"Disabled":false,"id":"68316743-7614-4936-a830-ea1bfd0d86fd","IsCreationKey":false,"Key":89.9999,"Length":1.0,"resourceType":"Keyframe<MomentsEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
+        },"Disabled":false,"id":"940dd0dd-1572-46a3-abdd-5a302a8e452e","IsCreationKey":false,"Key":48.0,"Length":1.0,"resourceType":"Keyframe<MomentsEventKeyframe>","resourceVersion":"2.0","Stretch":false,},
     ],
     "resourceType":"KeyframeStore<MomentsEventKeyframe>",
     "resourceVersion":"2.0",
@@ -100,7 +100,10 @@
             ],"resourceType":"KeyframeStore<RealKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"scale","resourceType":"GMRealTrack","resourceVersion":"2.0","trackColour":4294081096,"tracks":[],"traits":0,},
       ],"traits":0,},
   ],
-  "visibleRange":null,
+  "visibleRange":{
+    "x":0.0,
+    "y":89.9999,
+  },
   "volume":1.0,
   "xorigin":-320,
   "yorigin":-180,
