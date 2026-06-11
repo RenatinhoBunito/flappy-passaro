@@ -80,6 +80,7 @@
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
     {"id":{"name":"spr_bloqueadoLiberado","path":"sprites/spr_bloqueadoLiberado/spr_bloqueadoLiberado.yy",},},
     {"id":{"name":"spr_caixasla","path":"sprites/spr_caixasla/spr_caixasla.yy",},},
+    {"id":{"name":"spr_colisordobotaopraitem","path":"sprites/spr_colisordobotaopraitem/spr_colisordobotaopraitem.yy",},},
     {"id":{"name":"spr_numero","path":"sprites/spr_numero/spr_numero.yy",},},
     {"id":{"name":"spr_pexe","path":"sprites/spr_pexe/spr_pexe.yy",},},
     {"id":{"name":"spr_pexemeno","path":"sprites/spr_pexemeno/spr_pexemeno.yy",},},

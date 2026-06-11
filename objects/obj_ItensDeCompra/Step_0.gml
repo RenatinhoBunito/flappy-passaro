@@ -1,3 +1,5 @@
 if (bloqueado == true) {
 	image_speed = 0;
 }
+
+

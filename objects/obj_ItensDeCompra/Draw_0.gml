@@ -1,5 +1,5 @@
 
-draw_sprite_ext(spr_bloqueadoLiberado, bloqueado, x, y, 4, 3, 0, c_white, 1)
+draw_sprite_ext(spr_bloqueadoLiberado, frame, x, y, 4, 3, 0, c_white, 1)
 
 draw_self()
 
