@@ -7,6 +7,7 @@ if global.Morre == false {
 var limite_nivel  = global.nivel[global.level - 1] 
 if (global.pontos >= limite_nivel and global.level < 9)   {
 	global.level ++
+	audio_play_sound(snd_levelup, 0, false)
 }
 	
 if global.Morre == 1 exit {

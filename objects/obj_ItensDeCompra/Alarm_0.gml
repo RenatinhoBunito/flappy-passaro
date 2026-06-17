@@ -1,9 +1,7 @@
 if (bloqueado == false) { 
-	frame = 0
+	frame = 2 
 } else {
-	frame = 1
+	frame = 3
 }
 
-alarm[0] = -2
-
-
+alarm[0] = 2

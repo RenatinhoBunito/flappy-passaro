@@ -1,3 +1,6 @@
+
+sprite_index = global.passaro
+
 //criando uma variavel para ser a velocidade de queda
 cair = 0.1
 

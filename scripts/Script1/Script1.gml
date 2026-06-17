@@ -21,6 +21,10 @@ global.pexe = 0
 global.destino = rm_partida
 //variavel de controle para saber se a transição esta acontecendo
 global.transisao = false
+//variavel para saber se os itens estão bloqueados ou não
+global.bloqueados = [false, true, true] 
+//variavel para saber que passaro estou selecionado
+global.passaro = spr_ARARA
 #endregion
 
 #region functions
