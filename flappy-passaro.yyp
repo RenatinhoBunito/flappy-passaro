@@ -60,6 +60,7 @@
     {"id":{"name":"obj_aguia","path":"objects/obj_aguia/obj_aguia.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},},
+    {"id":{"name":"obj_botaoefx","path":"objects/obj_botaoefx/obj_botaoefx.yy",},},
     {"id":{"name":"Obj_explosao","path":"objects/Obj_explosao/Obj_explosao.yy",},},
     {"id":{"name":"obj_ItensDeCompra","path":"objects/obj_ItensDeCompra/obj_ItensDeCompra.yy",},},
     {"id":{"name":"obj_level","path":"objects/obj_level/obj_level.yy",},},
