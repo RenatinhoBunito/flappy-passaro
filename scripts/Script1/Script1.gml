@@ -25,6 +25,8 @@ global.transisao = false
 global.bloqueados = [false, true, true] 
 //variavel para saber que passaro estou selecionado
 global.passaro = spr_ARARA
+//variavel dos efeitos
+global.efeito = 1
 #endregion
 
 #region functions
@@ -64,6 +66,11 @@ function muda_sala() {
 	
 function encerra_transicao() {
 	global.transisao = false
+}
+
+function efeitosFunc() {
+	layer_enable_fx("efx_agua", global.efeito)
+	layer_enable_fx("efx_folhas", global.efeito)
 }
 
 	
